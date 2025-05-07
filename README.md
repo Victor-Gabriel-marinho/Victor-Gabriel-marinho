@@ -24,3 +24,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SupaBase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## Estatísticas 🤖
+
+![Tempo](https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Gabriel-marinho&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9)
