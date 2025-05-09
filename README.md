@@ -1,8 +1,9 @@
-## Olá! eu sou Victor Gabriel 👋
+## Olá! eu sou Victor Gabriel 👋 
 
->3º ano do ensino medio pela escola EEEP Edson Queiroz.
->Técnico em Informática 3/3
->Desenvolvedor web full-stack.
+*`Desenvolvedor web full-stack.`*
+
+>3º ano do ensino medio pela Escola Profissional Edson Queiroz. </br>
+>Técnico em Informática 3/3 </br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_vic_02_mateus/?next=%2F)
 
